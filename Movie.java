@@ -1,11 +1,3 @@
-/*************************************************
- File: Movie
- By: Allie Young
- Date: 11/2/24
- Description: the movie class, has methods to create movie objects as well as
- to retrieve/change the data fields of movies
- *************************************************/
-
 package P2MoviePlaylist;
 
 public class Movie {
