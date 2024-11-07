@@ -1,12 +1,3 @@
-/*************************************************
- File: Playlist
- By: Allie Young
- Date: 11/6/24
- Description: adds one method to linkedqueue which removes a specified
- movie while preserving the order of the playlist and adjusting start times
- accordingly
- *************************************************/
-
 package P2MoviePlaylist;
 
 public class LinkedMovieQueue extends LinkedQueue<Movie> {
