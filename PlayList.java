@@ -1,13 +1,3 @@
-/*************************************************
- File: Playlist
- By: Allie Young
- Date: 11/6/24
- Description: takes user input to create a movie playlist and simulates
- "progression" through the playlist using user inputted timestamps.
- slightly different from sample runs -- i changed some of the prompt text
- and added spaces after certain lines so it would be easier to read.
- *************************************************/
-
 package P2MoviePlaylist;
 import java.util.Scanner;
 
