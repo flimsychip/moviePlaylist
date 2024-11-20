@@ -2,7 +2,8 @@
  File: P3Playlist
  By: Allie Young
  Date: 11/19/24
- Description: takes user input to create a movie playlist and simulates
+ Description: same as playlist but with linked list instead of linked queue.
+ takes user input to create a movie playlist and simulates
  "progression" through the playlist using user inputted timestamps. allows
  the user control over the position they want to add each movie to.
  slightly different from sample runs -- i changed some of the prompt text
